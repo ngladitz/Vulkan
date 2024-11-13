@@ -164,6 +164,7 @@ set(EXAMPLES
 	tessellation
 	textoverlay
 	texture
+	texture1d
 	texture3d
 	texturearray
 	texturecubemap
